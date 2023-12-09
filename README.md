@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me :
 
 I'm a Junior Computer Science Student and a freelance artist from the Philippines.
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-yozorathebread-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yozorathebread?s=21&t=4-OvZf_QZe_GjyAxYAlalw)  [![Discord Badge](https://img.shields.io/badge/-chocopandesuu-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com) [![LinkedIn Badge](https://img.shields.io/badge/-Daphne-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daphne-julienne-agao-b17173226)
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-yozorathebread-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yozorathebread?s=21&t=4-OvZf_QZe_GjyAxYAlalw)  [![Discord Badge](https://img.shields.io/badge/-chocopandesuu-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com) [![LinkedIn Badge](https://img.shields.io/badge/-Daphne-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daphne-julienne-agao-b17173226)
 
 ---
 ### 🛠️ Languages and Tools :
